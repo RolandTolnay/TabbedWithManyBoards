@@ -9,9 +9,12 @@ This project is a demo showcasing an approach where each UIViewController has it
 * Avoid using seagues:
   * Naming every segue and hardcoding long string names is error-prone and can become confusing
   * PrepareForSegue method can become overloaded and non-readable once a lot of segues are included
+  * unwindTo: segues are unintuitive (the method has to be pre-implemented in a different class)
 * No more hidden ID's in the objects Identity Inspector
 * No hard coding of ID's in the code
 * Reduced boilerplate when creating a view controller programatically
+
+Using this approach a storyboard has a single and simple role: provide a visual representation of the view controller it is assigned to. You could also call it a Nib with benefits! 
 
 ## Developer steps
 
