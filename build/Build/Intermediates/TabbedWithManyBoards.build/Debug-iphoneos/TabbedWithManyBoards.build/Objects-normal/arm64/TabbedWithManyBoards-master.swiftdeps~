@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "74771ab4be67bacf6cdbe80b2a40a34a"
+build_time: [1526306077, 253697000]
+inputs:
+  "/Users/roland.tolnay/Documents/Examples/TabbedWithManyBoards/TabbedWithManyBoards/SecondViewController/SecondViewController.swift": [1526306020, 0]
+  "/Users/roland.tolnay/Documents/Examples/TabbedWithManyBoards/TabbedWithManyBoards/AppDelegate.swift": [1526306020, 0]
+  "/Users/roland.tolnay/Documents/Examples/TabbedWithManyBoards/TabbedWithManyBoards/FirstViewController/FirstViewController.swift": [1526306020, 0]

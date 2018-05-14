@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "2a53dc797e35d6d5adff8174db89bee7"
+build_time: [1526309369, 937103000]
+inputs:
+  "/Users/roland.tolnay/Documents/Examples/TabbedWithManyBoards/TabbedWithManyBoards/FourthViewController/FourthViewController.swift": [1526309289, 0]
+  "/Users/roland.tolnay/Documents/Examples/TabbedWithManyBoards/TabbedWithManyBoards/UIViewController+instantiate.swift": [1526308733, 0]
+  "/Users/roland.tolnay/Documents/Examples/TabbedWithManyBoards/TabbedWithManyBoards/SecondViewController/SecondViewController.swift": [1526309367, 0]
+  "/Users/roland.tolnay/Documents/Examples/TabbedWithManyBoards/TabbedWithManyBoards/AppDelegate.swift": [1526306020, 0]
+  "/Users/roland.tolnay/Documents/Examples/TabbedWithManyBoards/TabbedWithManyBoards/ThirdViewController/ThirdViewController.swift": [1526308399, 0]
+  "/Users/roland.tolnay/Documents/Examples/TabbedWithManyBoards/TabbedWithManyBoards/FirstViewController/FirstViewController.swift": [1526308278, 0]
